@@ -36,3 +36,6 @@ The cryptocurrency clustering challenge involved several key steps:
 6. Compared elbow curves and cluster results between original and PCA data.
 * Created composite layouts of graphs for side-by-side comparisons
 * Analyzed the impact of using fewer features for clustering.
+
+### Credits
+- Referenced class materials as well as ChatGPT
